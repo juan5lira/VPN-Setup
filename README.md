@@ -1,5 +1,11 @@
 # VPN-Setup
 
+Dealing with: (PIVATE INFORMATION)
+
+
+VPN (Virtual Private Network)
+
+
 (Create Virtual Machine in Azure)
 
 Browse to https://whatismyipaddress.com/ FROM WITHIN YOUR OWN MACHINE and take note of this in a text file
